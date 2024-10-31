@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ArticleSearch</string>
+    <string name="article_image">Article Image</string>
+    <!-- Add other strings as needed -->
 </resources>
